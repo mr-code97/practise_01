@@ -3,4 +3,5 @@ want to know whether you are in future branch or main branch
 scroll down we will find the branch name above commit optio
 fut bra bra have the all the data that arwe present in main and starting branch 
 branch is just a copy of the previous one to experiment and to make commits without any changes in the main branch
-
+happy
+what will happen if i commit changes in 2 option of the
